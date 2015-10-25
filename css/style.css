@@ -1,0 +1,16 @@
+body {
+  font: normal normal normal 16px/1.4 'Lato'; }
+
+.menu {
+  margin: 2em 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee; }
+  .menu a {
+    font-weight: normal; }
+
+.image-grid a:focus {
+  outline: none; }
+
+.image-grid img {
+  max-width: 100%;
+  height: auto; }

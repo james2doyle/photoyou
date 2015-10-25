@@ -1,0 +1,26 @@
+{
+  "name": "nudeproject",
+  "description": "a nudeproject",
+  "main": "",
+  "authors": [
+    "[object Object]",
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "basscss": "~7.0.4",
+    "lazyload": "vvo/lazyload#~3.2.1"
+  }
+}
