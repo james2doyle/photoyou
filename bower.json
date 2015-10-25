@@ -1,10 +1,14 @@
 {
-  "name": "nudeproject",
-  "description": "a nudeproject",
+  "name": "photoyou",
+  "version": "1.0.0",
+  "description": "photoyou is based off a specific template in the photome wordpress theme",
   "main": "",
   "authors": [
-    "[object Object]",
-    "[object Object]"
+    {
+      "name": "James Doyle",
+      "email": "james2doyle@gmail.com",
+      "url": "http://ohdoylerules.com/"
+    }
   ],
   "license": "MIT",
   "moduleType": [
