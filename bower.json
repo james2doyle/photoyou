@@ -25,6 +25,8 @@
   ],
   "dependencies": {
     "basscss": "~7.0.4",
-    "lazyload": "vvo/lazyload#~3.2.1"
+    "lazyload": "vvo/lazyload#~3.2.1",
+    "jquery": "~2.1.4",
+    "magnific-popup": "~1.0.0"
   }
 }
