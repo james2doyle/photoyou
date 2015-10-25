@@ -1,15 +1,10 @@
 {
-  "name": "nudeproject",
+  "name": "photoyou",
   "version": "1.0.0",
-  "description": "a nudeproject",
-  "homepage": "http://ohdoylerules.com",
-  "repository": "https://github.com/james2doyle/nudeproject",
+  "description": "photoyou is based off a specific template in the photome wordpress theme",
+  "homepage": "",
+  "repository": "https://github.com/james2doyle/photoyou",
   "author": [
-    {
-      "name": "WARPAINT Media",
-      "email": "hello@warpaintmedia.ca",
-      "url": "http://warpaintmedia.ca"
-    },
     {
       "name": "James Doyle",
       "email": "james2doyle@gmail.com",
